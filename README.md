@@ -13,13 +13,8 @@ The Dell XPS 7590 in particular has serious overheating and thermal throttling p
 ## What you need:
 
 * A laptop
+* Administrator privileges on said laptop
 * The laptop's charging cable
-
-
-
-{% hint style="warning" %}
-
-{% endhint %}
 
 
 
